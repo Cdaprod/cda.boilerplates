@@ -1,0 +1,29 @@
+{
+    "tabs": [
+        {
+            "id": "tab1",
+            "title": "Home",
+            "cards": [
+                "Card 1 for Tab 1 Yo",
+                "Card 2 for Tab 1",
+                "Card 3 for Tab 1"
+            ]
+        },
+        {
+            "id": "tab2",
+            "title": "Blog",
+            "cards": [
+                "Card 1 for Tab 2",
+                "Card 2 for Tab 2",
+                "Card 3 for Tab 2"
+            ]
+        },
+        {
+            "id": "tab3",
+            "title": "Contact",
+            "cards": [
+                "Card content for Tab 3"
+            ]
+        }
+    ]
+}
